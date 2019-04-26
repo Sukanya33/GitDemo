@@ -1,1 +1,1 @@
-echo "welcome to jenkins"
+echo welcome to jenkins
